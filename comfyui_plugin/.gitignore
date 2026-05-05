@@ -1,0 +1,9 @@
+# Temporary files
+temp/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Test files (optional)
+test_plugin.py
